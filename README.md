@@ -120,6 +120,22 @@ cleaned_global_superstore.csv
 - Data preprocessing workflow
 - Exporting cleaned datasets
 - Git and GitHub project management
+## Screenshots
+
+### Dataset Preview
+![Dataset Preview](screenshots/Screenshot%202026-06-02%20004450.png)
+
+### Dataset Information
+![Dataset Information](screenshots/Screenshot%202026-06-02%20004517.png)
+
+### Missing Values Before Cleaning
+![Missing Values Before Cleaning](screenshots/Screenshot%202026-06-02%20004541.png)
+
+### Cleaning Process
+![Cleaning Process](screenshots/Screenshot%202026-06-02%20004651.png)
+
+### Final Output
+![Final Output](screenshots/Screenshot%202026-06-02%20004843.png)
 
 ## Repository Naming Convention
 
