@@ -137,7 +137,7 @@ cleaned_global_superstore.csv
 ### Final Output
 ![Final Output](screenshots/Screenshot%202026-06-02%20004843.png)
 
-## Repository Naming Convention
+## Repository Naming
 
 Repository Name:
 SCT_DA_2
